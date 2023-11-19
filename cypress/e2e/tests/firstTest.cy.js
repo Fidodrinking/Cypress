@@ -183,7 +183,9 @@ xit('API', () => {
         expect(response.status).to.eq(200)
         cy.log(response.body)
     })
-
+xit('Sunday', () => {
+    
+});
     
 });
 

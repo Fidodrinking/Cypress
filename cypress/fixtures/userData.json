@@ -1,0 +1,12 @@
+{
+    "user1": {
+        "login": "James",
+        "password": "tajneHaslo",
+        "email": "jakis@mail.com"
+    },
+    "user2": {
+        "login": "James2",
+        "password": "tajneHaslo2",
+        "email": "jakis@mail.com2"
+    }
+}
